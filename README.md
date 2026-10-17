@@ -174,3 +174,13 @@ This project forms part of my practical networking experience while studying BSc
 
 It demonstrates foundational networking knowledge relevant to IT infrastructure, network administration, and cybersecurity.
 
+## Network Topology
+
+
+
+The network consists of three routers, five switches, six PCs, and one web server.
+
+
+
+!\[Cisco Packet Tracer Network Topology](Screenshots/network-topology.png)
+
